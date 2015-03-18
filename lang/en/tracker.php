@@ -108,7 +108,7 @@ $string['enablecomments_help'] = 'When this option is enabled, readers of issue 
 $string['erroraddissueattribute'] = 'Could not submit issue(s) attribute(s). Case {$a} ';
 $string['erroralreadyinuse'] = 'Element already in use';
 $string['errorannotdeletecarboncopies'] = 'Cannot delete carbon copies for user : {$a}';
-$string['errorannotdeletequeryid'] = 'Cannot delete query id: {$a]';
+$string['errorannotdeletequeryid'] = 'Cannot delete query id: {$a}';
 $string['errorbadlistformat'] = 'Only numbers (or a list of numbers seperated by a comma (",") allowed in the issue number field';
 $string['errorcannotaddelementtouse'] = 'Cannot add element to list of elements to use for this tracker';
 $string['errorcannotclearelementsforissue'] = 'Could not clear elements for issue {$a}';
@@ -340,7 +340,7 @@ $string['tracker_description'] = '<p>When publishing this service, you allow tra
 $string['tracker_name'] = 'Tracker module services';
 $string['tracker_service_name'] = 'Tracker module services';
 $string['trackerelements'] = 'Tracker\'s definition';
-$string['trackereventchanged'] = 'Issue state change in tracker [{$a]}';
+$string['trackereventchanged'] = 'Issue state change in tracker [{$a}]';
 $string['trackerhost'] = 'Parent host for tracker';
 $string['trackername'] = 'Tracker name';
 $string['transfer'] = 'Transfered';
@@ -473,4 +473,3 @@ When enabled some state changes may result in sending notifications to users whe
 $string['strictworkflow_help'] = '
 When enabled, each specific internal role in tracker (reporter, developer, resolvers, manager) will only have access to his accessible states against his role.
 ';
-
